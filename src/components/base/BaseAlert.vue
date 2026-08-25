@@ -1,7 +1,7 @@
 <script setup></script>
 
 <template>
-  <RouterView />
+  <div class="">
+    <slot />
+  </div>
 </template>
-
-<style scoped></style>
